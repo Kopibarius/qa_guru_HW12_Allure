@@ -7,10 +7,10 @@ import org.junit.jupiter.api.Test;
 
 public class TestWithAnnotations {
 
-    @BeforeAll
-    static void beforeAll() {
-        Configuration.browser = "firefox";
-    }
+//    @BeforeAll
+//    static void beforeAll() {
+//        Configuration.browser = "firefox";
+//    }
 
     @DisplayName("Тест с анотациями")
     @Test

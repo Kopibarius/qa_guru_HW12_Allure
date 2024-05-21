@@ -13,10 +13,10 @@ import static io.qameta.allure.Allure.step;
 
 public class TestWithLambda {
 
-    @BeforeAll
-    static void beforeAll() {
-        Configuration.browser = "firefox";
-    }
+//    @BeforeAll
+//    static void beforeAll() {
+//        Configuration.browser = "firefox";
+//    }
 
     @DisplayName("Тест с лямбда степами")
     @Test

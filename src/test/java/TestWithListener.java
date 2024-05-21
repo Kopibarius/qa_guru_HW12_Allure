@@ -12,10 +12,10 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class TestWithListener {
 
-    @BeforeAll
-    static void beforeAll() {
-        Configuration.browser = "firefox";
-    }
+//    @BeforeAll
+//    static void beforeAll() {
+//        Configuration.browser = "firefox";
+//    }
 
     @DisplayName("Тест просто с алюром")
     @Test
