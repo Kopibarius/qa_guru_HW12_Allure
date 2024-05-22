@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 22 19:27:14 GMT 2024","Wed May 22 19:27:20 GMT 2024","6106","","TestWithAnnotations","","TestWithAnnotations","issue2712ShouldBeVisible","Тест с анотациями",""
+"passed","Wed May 22 19:27:22 GMT 2024","Wed May 22 19:27:25 GMT 2024","2396","","TestWithListener","","TestWithListener","issue2712ShouldBeVisible","Тест просто с алюром",""
+"passed","Wed May 22 19:27:20 GMT 2024","Wed May 22 19:27:22 GMT 2024","2441","","TestWithLambda","","TestWithLambda","issue2712ShouldBeVisible","Тест с лямбда степами",""
